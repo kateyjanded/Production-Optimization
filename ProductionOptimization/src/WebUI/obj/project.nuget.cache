@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QvpOhGqo9qyojPeIF3Di1N0/XC+DPpoQNkUQYkR0gy6Kq4sTV/IV3duxIkG/vc/uhtFCAIMlqAVvc1WFoUd74Q==",
+  "dgSpecHash": "wVpzWQ84nVsRvu4kC36s2WdceXh+lTo3ele4ImiHzOE227Dm6kdUJ8kD6t1cjaiNtRGp1S4jIJ0lfIE+TP9W1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\affiong.asuquo\\Desktop\\Affiong12\\New folder\\ProductionOptimization\\src\\WebUI\\WebUI.csproj",
+  "projectFilePath": "C:\\Users\\affiong.asuquo\\Desktop\\Production Optimization\\Production-Optimization\\ProductionOptimization\\src\\WebUI\\WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\affiong.asuquo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\affiong.asuquo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

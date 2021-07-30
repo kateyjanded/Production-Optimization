@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "++SFs53Bj7Ma6rfqRvLjaGnNdZ1QqCACLBjJ8WpJ1KVG9v5nl02mTyYHMe0HUlyXOBJm10jdofTmyOwqwfmf2g==",
+  "dgSpecHash": "bSf4IIkFVaSxHteOjMTsi/PakBz6mJ/YDTrVS2Cgs/mEm/YiJn+82JIuWOSLLtujnZ5Lst2ScCE35ZqD8UBYUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\affiong.asuquo\\Desktop\\Affiong12\\New folder\\ProductionOptimization\\src\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\affiong.asuquo\\Desktop\\Production Optimization\\Production-Optimization\\ProductionOptimization\\src\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\affiong.asuquo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\affiong.asuquo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
