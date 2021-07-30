@@ -1,0 +1,372 @@
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\appsettings.json
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\WebUI.exe
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\WebUI.deps.json
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\WebUI.runtimeconfig.json
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\WebUI.runtimeconfig.dev.json
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\WebUI.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\ref\WebUI.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\WebUI.pdb
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\obj\Debug\net5.0\WebUI.csprojAssemblyReference.cache
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\obj\Debug\net5.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\obj\Debug\net5.0\WebUI.AssemblyInfoInputs.cache
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\obj\Debug\net5.0\WebUI.AssemblyInfo.cs
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\obj\Debug\net5.0\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\obj\Debug\net5.0\WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\obj\Debug\net5.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\obj\Debug\net5.0\staticwebassets\WebUI.StaticWebAssets.Manifest.cache
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\obj\Debug\net5.0\staticwebassets\WebUI.StaticWebAssets.xml
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\obj\Debug\net5.0\scopedcss\bundle\WebUI.styles.css
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\obj\Debug\net5.0\WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\obj\Debug\net5.0\WebUI.csproj.CopyComplete
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\obj\Debug\net5.0\WebUI.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\obj\Debug\net5.0\ref\WebUI.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\obj\Debug\net5.0\WebUI.pdb
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\obj\Debug\net5.0\WebUI.genruntimeconfig.cache
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\WebUI.StaticWebAssets.xml
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\IdentityServer4.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\IdentityServer4.AspNetIdentity.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\IdentityServer4.EntityFramework.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\IdentityServer4.Storage.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\MediatR.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Application.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Domain.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Application.pdb
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Domain.pdb
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Serilog.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\affiong.asuquo\Desktop\PO\src\WebUI\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\obj\Debug\net5.0\WebUI.csprojAssemblyReference.cache
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\obj\Debug\net5.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\obj\Debug\net5.0\WebUI.AssemblyInfoInputs.cache
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\obj\Debug\net5.0\WebUI.AssemblyInfo.cs
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\obj\Debug\net5.0\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\obj\Debug\net5.0\WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\obj\Debug\net5.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\obj\Debug\net5.0\WebUI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\obj\Debug\net5.0\ref\WebUI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\obj\Debug\net5.0\WebUI.pdb
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\appsettings.json
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\WebUI.StaticWebAssets.xml
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\WebUI.exe
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\WebUI.deps.json
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\WebUI.runtimeconfig.json
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\WebUI.runtimeconfig.dev.json
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\WebUI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\ref\WebUI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\WebUI.pdb
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\IdentityServer4.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\IdentityServer4.AspNetIdentity.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\IdentityServer4.EntityFramework.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\IdentityServer4.Storage.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\MediatR.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Serilog.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Application.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Domain.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Application.pdb
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\bin\Debug\net5.0\Domain.pdb
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\obj\Debug\net5.0\staticwebassets\WebUI.StaticWebAssets.Manifest.cache
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\obj\Debug\net5.0\staticwebassets\WebUI.StaticWebAssets.xml
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\obj\Debug\net5.0\scopedcss\bundle\WebUI.styles.css
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\obj\Debug\net5.0\WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\obj\Debug\net5.0\WebUI.csproj.CopyComplete
+C:\Users\affiong.asuquo\Desktop\BackUp Files\PO\src\WebUI\obj\Debug\net5.0\WebUI.genruntimeconfig.cache
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.csprojAssemblyReference.cache
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.AssemblyInfoInputs.cache
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.AssemblyInfo.cs
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\obj\Debug\net5.0\ref\WebUI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.pdb
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\appsettings.json
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\WebUI.StaticWebAssets.xml
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\WebUI.exe
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\WebUI.deps.json
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\WebUI.runtimeconfig.json
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\WebUI.runtimeconfig.dev.json
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\WebUI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\ref\WebUI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\WebUI.pdb
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\IdentityServer4.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\IdentityServer4.AspNetIdentity.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\IdentityServer4.EntityFramework.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\IdentityServer4.Storage.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\MediatR.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Serilog.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Application.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Domain.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Application.pdb
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Domain.pdb
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\obj\Debug\net5.0\staticwebassets\WebUI.StaticWebAssets.Manifest.cache
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\obj\Debug\net5.0\staticwebassets\WebUI.StaticWebAssets.xml
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\obj\Debug\net5.0\scopedcss\bundle\WebUI.styles.css
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.csproj.CopyComplete
+C:\Users\affiong.asuquo\Desktop\BackUp Files\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.genruntimeconfig.cache
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\appsettings.json
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\WebUI.StaticWebAssets.xml
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\WebUI.exe
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\WebUI.deps.json
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\WebUI.runtimeconfig.json
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\WebUI.runtimeconfig.dev.json
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\WebUI.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\ref\WebUI.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\WebUI.pdb
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\IdentityServer4.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\IdentityServer4.AspNetIdentity.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\IdentityServer4.EntityFramework.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\IdentityServer4.Storage.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\MediatR.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Serilog.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Application.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Domain.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Application.pdb
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\bin\Debug\net5.0\Domain.pdb
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.csprojAssemblyReference.cache
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.AssemblyInfoInputs.cache
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.AssemblyInfo.cs
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\obj\Debug\net5.0\staticwebassets\WebUI.StaticWebAssets.Manifest.cache
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\obj\Debug\net5.0\staticwebassets\WebUI.StaticWebAssets.xml
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\obj\Debug\net5.0\scopedcss\bundle\WebUI.styles.css
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.csproj.CopyComplete
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\obj\Debug\net5.0\ref\WebUI.dll
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.pdb
+C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\WebUI\obj\Debug\net5.0\WebUI.genruntimeconfig.cache
