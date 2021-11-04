@@ -1,4 +1,5 @@
 ﻿using Application.Common.Interfaces;
+using Application.VLP.UpdateVLP;
 using Domain.Entities;
 using System;
 
@@ -15,5 +16,6 @@ namespace Application.SystemAnalysisModels.Query.GetWellModel
         public ModelBackgroundDto ModelBackground { get; set; }
         public PVTDto PVT { get; set; }
         public IPRDto IPR { get; set; }
+        public VLPDTO VLP { get; set; }
     }
 }

@@ -43,6 +43,11 @@ namespace Infrastructure.Repository.EntityFrameWork_Repository
                 .Include(x => x.IPR.GasFraction)
                 .Include(x => x.IPR.WaterFraction)
                 .Include(x => x.IPR.ProductivityIndex)
+                .Include(x => x.VLP)
+                .Include(x => x.VLP.THP)
+                .Include(x => x.VLP.GasFraction)
+                .Include(x => x.VLP.WaterFraction)
+                .Include(x => x.VLP.GasLiftFraction)
                 .Where(x => x.Id == Id);
                 return await entity.FirstOrDefaultAsync();
         }

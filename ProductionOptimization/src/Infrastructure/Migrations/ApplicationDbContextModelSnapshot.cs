@@ -46,8 +46,14 @@ namespace Infrastructure.Migrations
                     b.Property<string>("LiftTablePath")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Pressures")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<Guid?>("ProductivityIndexId")
                         .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Rates")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<Guid?>("ReservoirPressureId")
                         .HasColumnType("uniqueidentifier");
@@ -79,7 +85,7 @@ namespace Infrastructure.Migrations
 
                     b.HasIndex("WaterFractionId");
 
-                    b.ToTable("IPRs");
+                    b.ToTable("IPR");
                 });
 
             modelBuilder.Entity("Domain.Entities.ModelComponents.ModelBackground", b =>
@@ -130,8 +136,8 @@ namespace Infrastructure.Migrations
                     b.Property<bool>("UseLiftTable")
                         .HasColumnType("bit");
 
-                    b.Property<string>("WellType")
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("WellType")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
@@ -218,6 +224,70 @@ namespace Infrastructure.Migrations
                     b.HasIndex("WaterSalinityId");
 
                     b.ToTable("PVTs");
+                });
+
+            modelBuilder.Entity("Domain.Entities.ModelComponents.VLP", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime>("Created")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("CreatedBy")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<Guid?>("GasFractionId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid?>("GasLiftFractionId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<DateTime?>("LastModified")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("LastModifiedBy")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LiftTableContent")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LiftTablePath")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Pressures")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Rates")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<Guid>("SystemAnalysisModelId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid?>("THPId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<bool>("UseLiftTable")
+                        .HasColumnType("bit");
+
+                    b.Property<Guid?>("WaterFractionId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("GasFractionId");
+
+                    b.HasIndex("GasLiftFractionId");
+
+                    b.HasIndex("SystemAnalysisModelId")
+                        .IsUnique();
+
+                    b.HasIndex("THPId");
+
+                    b.HasIndex("WaterFractionId");
+
+                    b.ToTable("VLP");
                 });
 
             modelBuilder.Entity("Domain.Entities.ParamEntry", b =>
@@ -683,6 +753,41 @@ namespace Infrastructure.Migrations
                     b.Navigation("WaterSalinity");
                 });
 
+            modelBuilder.Entity("Domain.Entities.ModelComponents.VLP", b =>
+                {
+                    b.HasOne("Domain.Entities.ParamEntry", "GasFraction")
+                        .WithMany()
+                        .HasForeignKey("GasFractionId");
+
+                    b.HasOne("Domain.Entities.ParamEntry", "GasLiftFraction")
+                        .WithMany()
+                        .HasForeignKey("GasLiftFractionId");
+
+                    b.HasOne("Domain.Entities.SystemAnalysisModel", "SystemAnalysisEOIModel")
+                        .WithOne("VLP")
+                        .HasForeignKey("Domain.Entities.ModelComponents.VLP", "SystemAnalysisModelId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Domain.Entities.ParamEntry", "THP")
+                        .WithMany()
+                        .HasForeignKey("THPId");
+
+                    b.HasOne("Domain.Entities.ParamEntry", "WaterFraction")
+                        .WithMany()
+                        .HasForeignKey("WaterFractionId");
+
+                    b.Navigation("GasFraction");
+
+                    b.Navigation("GasLiftFraction");
+
+                    b.Navigation("SystemAnalysisEOIModel");
+
+                    b.Navigation("THP");
+
+                    b.Navigation("WaterFraction");
+                });
+
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {
                     b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole", null)
@@ -741,6 +846,8 @@ namespace Infrastructure.Migrations
                     b.Navigation("ModelBackground");
 
                     b.Navigation("PVT");
+
+                    b.Navigation("VLP");
                 });
 #pragma warning restore 612, 618
         }

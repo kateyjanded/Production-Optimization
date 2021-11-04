@@ -46,3 +46,15 @@ C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\
 C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\Domain\obj\Debug\net5.0\Domain.dll
 C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\Domain\obj\Debug\net5.0\ref\Domain.dll
 C:\Users\affiong.asuquo\Desktop\Affiong12\New folder\ProductionOptimization\src\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\affiong.asuquo\Desktop\Production Optimization\Production-Optimization\ProductionOptimization\src\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\affiong.asuquo\Desktop\Production Optimization\Production-Optimization\ProductionOptimization\src\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\affiong.asuquo\Desktop\Production Optimization\Production-Optimization\ProductionOptimization\src\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\affiong.asuquo\Desktop\Production Optimization\Production-Optimization\ProductionOptimization\src\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\affiong.asuquo\Desktop\Production Optimization\Production-Optimization\ProductionOptimization\src\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\Users\affiong.asuquo\Desktop\Production Optimization\Production-Optimization\ProductionOptimization\src\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\affiong.asuquo\Desktop\Production Optimization\Production-Optimization\ProductionOptimization\src\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\affiong.asuquo\Desktop\Production Optimization\Production-Optimization\ProductionOptimization\src\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\affiong.asuquo\Desktop\Production Optimization\Production-Optimization\ProductionOptimization\src\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\affiong.asuquo\Desktop\Production Optimization\Production-Optimization\ProductionOptimization\src\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\affiong.asuquo\Desktop\Production Optimization\Production-Optimization\ProductionOptimization\src\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\affiong.asuquo\Desktop\Production Optimization\Production-Optimization\ProductionOptimization\src\Domain\obj\Debug\net5.0\Domain.pdb

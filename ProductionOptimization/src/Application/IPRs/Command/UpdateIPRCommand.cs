@@ -20,6 +20,8 @@ namespace Application.IPRs.Command
         public ParamEntryDTO ProductivityIndex { get; set; }
         public string LiftTableContent { get; set; }
         public string LiftTablePath { get; set; }
+        public double[] Rates { get; set; }
+        public double[] Pressures { get; set; }
         public Guid WellModelID { get; set; }
     }
     public class UpdateIPRCommandHandler : IRequestHandler<UpdateIPRCommand, Guid>
@@ -46,7 +48,10 @@ namespace Application.IPRs.Command
             ipr.ReservoirPressure = mapper.Map<ParamEntry>(request.ReservoirPressure);
             ipr.ReservoirTemperature = mapper.Map<ParamEntry>(request.ReservoirTemperature);
             ipr.LiftTableContent = request.LiftTableContent;
+            ipr.LiftTablePath = request.LiftTablePath;
             ipr.ProductivityIndex = mapper.Map<ParamEntry>(request.ProductivityIndex);
+            ipr.Rates = request.Rates;
+            ipr.Pressures = request.Pressures;
             wellModelRepository.Update(entity);
             await wellModelRepository.SaveChangesAsync(cancellationToken);
             return entity.Id;

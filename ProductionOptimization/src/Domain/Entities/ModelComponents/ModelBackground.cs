@@ -10,7 +10,7 @@ namespace Domain.Entities.ModelComponents
         public virtual string ModelDate { get; set; } = DateTime.Today.ToString("d/MM/yyyy");
         public virtual FluidTypeEnum FluidType { get; set; }
         public virtual FlowTypeEnum FlowType { get; set; }
-        public virtual string WellType { get; set; }
+        public virtual FluidTypeEnum WellType { get; set; }
         public virtual bool SandControl { get; set; }
         public virtual bool TemperatureModelling { get; set; }
         public virtual bool ArtificialLift { get; set; }

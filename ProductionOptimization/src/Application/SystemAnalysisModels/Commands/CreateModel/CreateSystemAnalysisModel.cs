@@ -15,8 +15,7 @@ namespace Application.SystemAnalysisModels.Commands.CreateModel
         public string DrainagePointName { get; set; }
         public string FluidPropertyName { get; set; }
         public DateTime ModelDate { get; set; }
-        public string Name { get; set; }
-
+        public string Name { get; set; } 
     }
     public class CreateSystemAnalysisModelCommandHandler : IRequestHandler<CreateSystemAnalysisModel, WellModelVM>
     {
@@ -35,7 +34,7 @@ namespace Application.SystemAnalysisModels.Commands.CreateModel
                 DrainagePointName = request.DrainagePointName,
                 ModelDate = request.ModelDate,
                 Name = request.Name,
-                ModelBackground = new Domain.Entities.ModelComponents.ModelBackground(),
+                ModelBackground = new ModelBackground(),
                 PVT = new Domain.Entities.ModelComponents.PVT()
                 {
                     WaterSalinity = new ParamEntry(),
@@ -43,8 +42,8 @@ namespace Application.SystemAnalysisModels.Commands.CreateModel
                     Pressure = new ParamEntry(),
                     Temperature = new ParamEntry()
                 },
-                IPR = new IPR()
-                
+                IPR = new IPR(),
+                VLP = new Domain.Entities.ModelComponents.VLP(),
             };
             _repository.Save(entity);
             await _repository.SaveChangesAsync(cancellationToken);

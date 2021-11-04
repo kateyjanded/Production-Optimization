@@ -49,7 +49,7 @@ namespace Application.ModelBackGround.Commands.UpdateCommand
             entity.ModelBackground.UseLiftTable = request.UseLiftTable;
             entity.ModelBackground.ArtificialLift = request.ArtificialLift;
             entity.ModelBackground.Description = request.Description;
-            entity.ModelBackground.WellType = request.WellType;
+            entity.ModelBackground.WellType = request.WellType.ConvertToEnum();
             entity.ModelBackground.SurfaceProfileModelling = request.SurfaceProfileModelling;
             entity.ModelBackground.TemperatureModelling = request.TemperatureModelling;
             entity.ModelBackground.SandControl = request.SandControl;

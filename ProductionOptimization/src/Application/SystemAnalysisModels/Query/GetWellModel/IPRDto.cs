@@ -12,6 +12,8 @@ namespace Application.SystemAnalysisModels.Query.GetWellModel
         public ParamEntryDTO ReservoirPressure { get; set; }
         public ParamEntryDTO ReservoirTemperature { get; set; }
         public ParamEntryDTO ProductivityIndex { get; set; }
+        public double[] Rates { get; set; }
+        public double[] Pressures { get; set; }
         public string LiftTableContent { get; set; }
         public string LiftTablePath { get; set; }
     }

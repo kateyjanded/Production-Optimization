@@ -48,7 +48,7 @@ namespace Application.ModelBackGround.Commands
                 UseLiftTable = request.UseLiftTable,
                 ArtificialLift = request.ArtificialLift,
                 Description = request.Description,
-                WellType = request.WellType,
+                WellType = request.WellType.ConvertToEnum(),
                 SurfaceProfileModelling = request.SurfaceProfileModelling,
             };
             modelBackgroundRepository.Save(modelBackground);

@@ -14,4 +14,10 @@
     <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="MathematicsLibrary">
+      <HintPath>..\..\..\..\..\Affiong12\New folder\Sepal-master\Sepal-Master\Sepal-master\SALibraryProjects\MathLibDll\MathematicsLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

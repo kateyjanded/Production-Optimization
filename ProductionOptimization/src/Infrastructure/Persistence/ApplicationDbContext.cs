@@ -8,7 +8,9 @@ using Infrastructure.Interfaces;
 using Microsoft.AspNetCore.ApiAuthorization.IdentityServer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
+using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Microsoft.Extensions.Options;
+using System;
 using System.Linq;
 using System.Reflection;
 using System.Threading;
@@ -35,6 +37,7 @@ namespace Infrastructure.Persistence
         public DbSet<ModelBackground> ModelBackgrounds { get; set; }
         public DbSet<PVT> PVTs { get; set; }
         public DbSet<IPR> IPRs { get; set; }
+        public DbSet<IPR> VLPs { get; set; }
         public DbSet<ParamEntry> ParamEntries { get; set; }
 
         public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
@@ -61,6 +64,42 @@ namespace Infrastructure.Persistence
         }
         protected override void OnModelCreating(ModelBuilder builder)
         {
+            builder.Entity<IPR>().Property(e => e.Pressures).
+                HasConversion(new ValueConverter<double[], string>(
+                    x => string.Join(";", x),
+                    x => x.Split(";", StringSplitOptions.RemoveEmptyEntries)
+                    .Select(val => double.Parse(val)).ToArray()), 
+                    new ValueComparer<double[]>(
+                        (c1, c2) => c1.SequenceEqual(c2),
+                        c => c.Aggregate(0, (a, v) => HashCode.Combine(a, v.GetHashCode())),
+                        c => c.ToArray()));
+            builder.Entity<IPR>().Property(e => e.Rates).
+                HasConversion(new ValueConverter<double[], string>(
+                    x => string.Join(";", x),
+                    x => x.Split(";", StringSplitOptions.RemoveEmptyEntries)
+                    .Select(val => double.Parse(val)).ToArray()),
+                     new ValueComparer<double[]>(
+                        (c1, c2) => c1.SequenceEqual(c2),
+                        c => c.Aggregate(0, (a, v) => HashCode.Combine(a, v.GetHashCode())),
+                        c => c.ToArray()));
+            builder.Entity<VLP>().Property(e => e.Pressures).
+                HasConversion(new ValueConverter<double[], string>(
+                    x => string.Join(";", x),
+                    x => x.Split(";", StringSplitOptions.RemoveEmptyEntries)
+                    .Select(val => double.Parse(val)).ToArray()),
+                    new ValueComparer<double[]>(
+                        (c1, c2) => c1.SequenceEqual(c2),
+                        c => c.Aggregate(0, (a, v) => HashCode.Combine(a, v.GetHashCode())),
+                        c => c.ToArray()));
+            builder.Entity<VLP>().Property(e => e.Rates).
+                HasConversion(new ValueConverter<double[], string>(
+                    x => string.Join(";", x),
+                    x => x.Split(";", StringSplitOptions.RemoveEmptyEntries)
+                    .Select(val => double.Parse(val)).ToArray()),
+                     new ValueComparer<double[]>(
+                        (c1, c2) => c1.SequenceEqual(c2),
+                        c => c.Aggregate(0, (a, v) => HashCode.Combine(a, v.GetHashCode())),
+                        c => c.ToArray()));
             builder.ApplyConfigurationsFromAssembly(Assembly.GetEntryAssembly());
             base.OnModelCreating(builder);
         }

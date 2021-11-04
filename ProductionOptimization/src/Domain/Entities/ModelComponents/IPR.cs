@@ -22,6 +22,8 @@ namespace Domain.Entities.ModelComponents
         public ParamEntry ProductivityIndex { get; set; }
         public string LiftTableContent { get; set; }
         public string LiftTablePath { get; set; }
+        public double[] Rates { get; set; }
+        public double[] Pressures { get; set; }
         public Guid SystemAnalysisModelId { get; set; }
         [ForeignKey("SystemAnalysisModelId")]
         public virtual SystemAnalysisModel SystemAnalysisEOIModel { get; set; }

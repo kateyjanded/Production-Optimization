@@ -1,4 +1,5 @@
 ﻿using Domain.Entities;
+using Domain.Entities.ModelComponents;
 using System;
 using System.Linq;
 using System.Threading.Tasks;
@@ -15,8 +16,10 @@ namespace Infrastructure.Persistence
                 {
                     ModelDate = DateTime.Now,
                     DrainagePointName = "The Drainage Point is AB1000X",
-                    ModelBackground = new Domain.Entities.ModelComponents.ModelBackground(),
-                    PVT = new Domain.Entities.ModelComponents.PVT(),
+                    ModelBackground = new ModelBackground(),
+                    PVT = new PVT(),
+                    IPR = new IPR(),
+                    VLP = new VLP(),
                 });
                 await context.SaveChangesAsync();
             }
